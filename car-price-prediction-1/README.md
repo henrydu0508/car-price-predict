@@ -2,7 +2,7 @@
 
 A Web App to predict the price of a car based on its features.
 
-App is deployed in Heroku, hit the link to access it : [Open in Heroku](https://toDeploy/)
+App is deployed in Heroku, hit the link to access it : [Open in Heroku](http://car-price-prediction--apps.herokuapp.com/)
 
 
 ## Summary
